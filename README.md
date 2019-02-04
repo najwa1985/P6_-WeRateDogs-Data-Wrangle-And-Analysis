@@ -1,0 +1,2 @@
+# P6_-WeRateDogs-Data-Wrangle-And-Analysis
+WeRateDogs is a popular Twitter account that rates people's dogs with a humorous comment about the dog. The account has more than 7 million followers as of today. People send their dog pictures to get the rating. Most of the dogs are rated normally but a lot are over rated because a lot of people really like dogs.  In this project, I have gathered , assessed, cleaned, stored , analyzed &amp; visualized twitter archive data for Waterdogs twitter account.
